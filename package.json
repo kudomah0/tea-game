@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kudomah0/tea-game#readme",
   "dependencies": {
+    "eldez-tea": "^1.1.3",
     "express": "^4.18.3"
   }
 }
